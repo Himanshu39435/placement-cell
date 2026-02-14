@@ -11,7 +11,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/Ayush-Kanduri/Placement-Cell-Application.git"
+		"url": "git+https://github.com/Himanshu39435/Placement-Cell-Application.git"
 	},
 	"keywords": [
 		"placement",
@@ -33,9 +33,9 @@
 	"author": "ayush kanduri",
 	"license": "ISC",
 	"bugs": {
-		"url": "https://github.com/Ayush-Kanduri/Placement-Cell-Application/issues"
+		"url": "https://github.com/Himanshu39435/Placement-Cell-Application/issues"
 	},
-	"homepage": "https://github.com/Ayush-Kanduri/Placement-Cell-Application#readme",
+	"homepage": "https://github.com/Himanshu39435/Placement-Cell-Application#readme",
 	"dependencies": {
 		"bcryptjs": "^2.4.3",
 		"connect-flash": "^0.1.1",
