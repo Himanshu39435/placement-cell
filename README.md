@@ -121,10 +121,10 @@ For any issues related to the project, raise an ISSUE for the respective Reposit
 ## 💻 Screens
 
 <p align="justify">
-<img src="https://user-images.githubusercontent.com/76626529/192450649-a4c855d3-2417-4678-84d9-0517e6562e7b.png">
-<img src="https://user-images.githubusercontent.com/76626529/192450656-1570b890-83f2-4d84-aa77-c9fc62f73b02.png">
-<img src="https://user-images.githubusercontent.com/76626529/192450632-8825baea-ea52-4c5b-a591-92de012a725f.png">
-<img src="https://user-images.githubusercontent.com/76626529/192784782-8f846b00-e5c4-4e47-abc1-df7ca142a53d.png">  
+<img width="1919" height="905" alt="image" src="https://github.com/user-attachments/assets/86fde62d-5641-4289-a393-b0f3d6094e1b" />
+<img width="1919" height="906" alt="image" src="https://github.com/user-attachments/assets/ff0a4000-5f8d-493c-aad7-8c78513aca19" />
+<img width="1919" height="903" alt="image" src="https://github.com/user-attachments/assets/8f863614-dfe7-4584-b6c2-e0bee06bccb5" />
+<img width="1919" height="904" alt="image" src="https://github.com/user-attachments/assets/18bc176a-29e6-43b3-8940-07e7bd667ec3" />
 <img src="https://user-images.githubusercontent.com/76626529/192450644-fd3c4751-54aa-4c3c-b3b9-e959fca3c6e5.png">
 </p>
 
